@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F152F8425913A4100A6FF3F /* ColorSliderUIKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F152F8325913A4100A6FF3F /* ColorSliderUIKit.swift */; };
 		7F76B9F7258FF50E000E5742 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F76B9F6258FF50E000E5742 /* AppDelegate.swift */; };
 		7F76B9F9258FF50E000E5742 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F76B9F8258FF50E000E5742 /* SceneDelegate.swift */; };
 		7F76B9FB258FF50E000E5742 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F76B9FA258FF50E000E5742 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7F152F8325913A4100A6FF3F /* ColorSliderUIKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSliderUIKit.swift; sourceTree = "<group>"; };
 		7F76B9F3258FF50E000E5742 /* HW3.4 sliderGame int UIKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HW3.4 sliderGame int UIKit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F76B9F6258FF50E000E5742 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7F76B9F8258FF50E000E5742 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				7F76B9F6258FF50E000E5742 /* AppDelegate.swift */,
 				7F76B9F8258FF50E000E5742 /* SceneDelegate.swift */,
 				7F76B9FA258FF50E000E5742 /* ContentView.swift */,
+				7F152F8325913A4100A6FF3F /* ColorSliderUIKit.swift */,
 				7F76B9FC258FF514000E5742 /* Assets.xcassets */,
 				7F76BA01258FF514000E5742 /* LaunchScreen.storyboard */,
 				7F76BA04258FF514000E5742 /* Info.plist */,
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7F76B9F7258FF50E000E5742 /* AppDelegate.swift in Sources */,
+				7F152F8425913A4100A6FF3F /* ColorSliderUIKit.swift in Sources */,
 				7F76B9F9258FF50E000E5742 /* SceneDelegate.swift in Sources */,
 				7F76B9FB258FF50E000E5742 /* ContentView.swift in Sources */,
 			);
